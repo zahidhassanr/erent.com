@@ -1,0 +1,232 @@
+.type-label {
+    float: left;
+    padding-right: 23px;
+}
+
+.type-select {
+    width: 188px;
+    height: 33px;
+    text-align: center;
+
+}
+
+.property-type{
+
+}
+
+.select-type{
+
+}
+
+.property-post {
+    margin-top: 63px;
+    margin-left: 238px;
+
+}
+
+.radio-type {
+    margin-top: 26px;
+    margin-bottom: 37px;
+}
+.label-radio {
+    float: left;
+    padding-right: 82px;
+}
+
+.radio-class {
+    margin-top: 20px;
+    margin-bottom: 23px;
+}
+
+.rent-radio {
+    margin-left: 10px;
+
+}
+
+
+.bed-desc {
+    margin-left: 42px;
+    margin-top: 40px;
+}
+.draw-desc {
+    margin-top: 17px;
+    margin-left: 41px;
+}
+
+.din-desc {
+    margin-top: 20px;
+    margin-left: 44px;
+}
+
+.bed-desc input {
+    margin-left: 40px;
+}
+.draw-desc input {
+    margin-left: 12px;
+}
+
+.din-desc input {
+    margin-left: 21px;
+}
+
+.bed-desc label{
+
+}
+
+.draw-desc label{
+
+}
+
+.din-desc label{
+
+}
+
+.radio-apart label{
+
+
+}
+
+.radio-apart {
+    margin-left: 45px;
+    margin-top: 23px;
+}
+
+.label-radio-apart {
+    float: left;
+    padding-right: 30px;
+}
+
+.apart-radio{
+
+}
+
+.area-flat {
+    margin-left: 41px;
+    margin-top: 19px;
+}
+.price-flat {
+    margin-left: 39px;
+    margin-top: 22px;
+}
+
+.service-flat {
+    margin-left: 37px;
+    margin-top: 19px;
+    margin-bottom: 32px;
+}
+
+.area-flat input {
+    margin-left: 73px;
+}
+
+.price-flat input {
+    margin-left: 71px;
+}
+
+
+.service-flat input {
+    margin-left: 4px;
+}
+
+.price-plot {
+    margin-top: 33px;
+    margin-left: 98px;
+    margin-bottom: 59px;
+}
+
+.area-plot {
+    margin-top: 50px;
+    margin-left: 102px;
+}
+
+.price-plot input {
+    margin-left: 49px;
+}
+.area-plot input {
+    margin-left: 48px;
+}
+
+.label-radio-comm{
+
+}
+
+.radio-class-comm {
+    margin-left: 39px;
+    margin-bottom: 28px;
+}
+
+.city{
+
+}
+
+.city input{
+    width: 188px;
+    height: 33px;
+}
+
+ .location{
+
+}
+
+.location input{
+    width: 188px;
+    height: 33px;
+}
+
+.price{
+
+}
+
+.description-label{
+
+}
+
+.price input{
+    width: 188px;
+    height: 33px;
+}
+
+.description{
+
+}
+
+.description textarea{
+
+}
+
+.file{
+
+}
+
+.file input{
+
+}
+
+.user-email{
+
+}
+
+.user-email input{
+    width: 188px;
+    height: 33px;
+}
+
+.user-password{
+
+}
+
+.user-password input{
+    width: 188px;
+    height: 33px;
+}
+
+.submit_but {
+    margin-top: 37px;
+    margin-left: 126px;
+}
+
+.submit_but button {
+    width: 88px;
+    height: 39px;
+    background: skyblue;
+}

@@ -1,0 +1,41 @@
+.sing_in_container {
+    width: 500px;
+    height: 309px;
+    background: #f6f6ef;
+    padding-top: 19px;
+    padding-right: 34px;
+    margin-left: 72px;
+    float: left;
+}
+
+
+.sign_in_email {
+    padding-top: 19px;
+    padding-left: 15px;
+}
+
+.email_text {
+    margin-left: 23px;
+    width: 258px;
+}
+.sign_in_password {
+    padding-top: 63px;
+    padding-left: 14px;
+}
+
+.password_text {
+    margin-left: 55px;
+    width: 263px;
+}
+.form_submit {
+    margin-top: 42px;
+    padding-left: 15px;
+}
+.sub_button{
+    float:left;
+}
+.forgot_label {
+    padding-left: 70px;
+    text-decoration: none;
+    color: red;
+}

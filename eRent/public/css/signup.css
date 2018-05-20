@@ -1,0 +1,73 @@
+
+.sign_up_container {
+    background: powderblue;
+    width: 606px;
+    height: 671px;
+    margin-left: 140px;
+}
+
+.sign_up_email {
+    padding-top: 60px;
+}
+
+
+
+
+
+.sign_up_password {
+    padding-top: 64px;
+}
+.sign_up_name {
+    padding-top: 20px;
+}
+
+.sign_up_mobile {
+    padding-top: 59px;
+}
+.sign_up_Address {
+    padding-top: 60px;
+}
+
+.name_text {
+    margin-left: 50px;
+    width: 315px;
+}
+
+.email_text{
+    margin-left: 20px;
+    width: 315px;
+}
+
+.password_text{
+    margin-left: 56px;
+    width: 315px;
+}
+
+.password_con{
+    width:315px;
+}
+
+
+.address_text{
+    margin-left: 72px;
+    width: 315px;
+}
+
+.mobile_text{
+    margin-left: 50px;
+    width: 315px;
+}
+
+.sign_up_button {
+    height: 34px;
+
+}
+
+.sign_up_submit {
+    padding-top: 45px;
+    padding-left: 15px;
+}
+
+.sign_up_name label,.sign_up_email label,.sign_up_password label,.sign_up_mobile label,.sign_up_Address label{
+    padding-left:15px;
+}

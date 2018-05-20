@@ -1,0 +1,205 @@
+body{
+    margin:0;
+
+}
+
+
+.top{
+    background: #9CD2BA;
+
+}
+.top_top_frame{
+
+    height: 45px;
+}
+
+
+.phone_time_topmanu,.top_top_frame_left{
+    list-style: none;
+
+}
+.top_top_frame_left
+{
+    float: left;
+
+}
+
+.top_top_frame_right {
+    float: right;
+    margin-right: 87px;
+}
+
+
+.phone_time_topmanu li{
+    display: inline;
+    padding-right: 15px;
+}
+
+.top_top_frame_right li {
+    display: inline;
+    padding-left: 10px;
+
+}
+
+.top-top-right li a{
+    color: black;
+    text-decoration-line: none;
+}
+
+.top-top-right li a:hover{
+    color:red;
+}
+
+.top-middle-frame{
+    position: sticky;
+    z-index: 1;
+    top:0;
+}
+.logo {
+    margin-top: 8px;
+    padding-left: 60px;
+
+}
+.logo-name {
+    float: right;
+    padding-top: 17px;
+    margin-right: 1125px;
+}
+.sign-container{
+
+}
+.sign_up {
+    float: right;
+    margin-top: -68px;
+    margin-right: 95px;
+}
+.sign_in {
+    float: right;
+    margin-top: -68px;
+    margin-right: 254px;
+}
+
+#sign_up_button, #sign_in_button {
+    height: 40px;
+    border-radius: 0;
+    background: skyblue;
+}
+.fnd-property {
+    float: left;
+    margin-top: -31px;
+    margin-left: 296px;
+    width: 91px;
+    height: 26px;
+
+}
+
+.pst-property {
+    float: left;
+    margin-top: -31px;
+    margin-left: 505px;
+    width: 91px;
+    height: 26px;
+
+}
+.service_drop {
+    float: left;
+    margin-top: -37px;
+    margin-left: 715px;
+}
+.service_drop button {
+    padding-top: 7px;
+    padding-bottom: -1px;
+    background: transparent;
+    border: none;
+}
+
+
+
+.service_content{
+    display: none;
+    position:absolute;
+    background-color: #f9f9f9;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.service_drop:hover .service_content{
+    display: block;
+    z-index:1;
+}
+
+.service_content a{
+    float: none;
+    color: black;
+    padding: 5px 5px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.service_content a:hover {
+
+}
+
+.user-container {
+    float: right;
+    margin-top: -77px;
+    margin-right: 120px;
+}
+.user {
+    float: left;
+}
+.user a{
+    text-decoration: none;
+}
+
+.appointment {
+    padding-left: 116px;
+}
+
+.appointment a{
+    text-decoration: none;
+}
+.fnd-property{
+    color:black;
+}
+
+.pst-property{
+    color: black;
+}
+
+.forgot-pass {
+    margin-right: 41px;
+}
+
+
+.post-find a{
+    text-decoration: none;
+
+}
+
+.post-find a:hover{
+    background: #B0E0E6;
+    text-decoration: none;
+}
+
+
+.logout_user {
+    margin-left: 33px;
+    display: none;
+}
+
+
+.account_user {
+    margin-left: 33px;
+    display: none;
+}
+
+.logout_user button {
+
+    width: 72px;
+}
+.account_user button {
+
+    width: 72px;
+}

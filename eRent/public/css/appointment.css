@@ -1,0 +1,14 @@
+.owner_table {
+    margin-left: 118px;
+}
+
+td ,th{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+table{
+    width:800px;
+    height:200px;
+}

@@ -1,0 +1,41 @@
+body {
+    background: #ffeeff;
+}
+
+.property-container {
+    border: 1px solid black;
+    padding-top: 23px;
+    padding-left: 21px;
+    width: 1000px;
+    height: 332px;
+}
+.image-container {
+    width: 330px;
+    height: 300px;
+    float: left;
+}
+
+
+.property-description {
+    width: 917px;
+    padding-left: 390px;
+}
+
+.property-basic {
+    padding-top: 68px;
+}
+
+.property-basic i {
+    padding-right: 43px;
+}
+
+.property-amount {
+    padding-top: 40px;
+}
+
+.property-amount button {
+    background: #82A6FF;
+}
+.property-amount i {
+    padding-left: 115px;
+}

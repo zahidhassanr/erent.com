@@ -1,0 +1,51 @@
+.property-name {
+    margin-left: 322px;
+    width: 706px;
+
+}
+
+
+.property-image {
+    margin-left: 193px;
+    float: left;
+}
+
+.property-table {
+    margin-left: 543px;
+}
+
+.table-property td{
+
+}
+
+.table-property {
+    height: 350px;
+}
+
+.property-des {
+    margin-left: 45px;
+    margin-top: 64px;
+}
+
+.property-des h2{
+
+}
+
+.description-textarea {
+    border: 1px solid black;
+    width: 805px;
+    height: 100px;
+}
+
+.property-location {
+    margin-left: 40px;
+}
+
+.apply-button {
+    padding-left: 448px;
+    padding-top: 26px;
+}
+.button-apply {
+    height: 38px;
+    background: #37B6FF;
+}
